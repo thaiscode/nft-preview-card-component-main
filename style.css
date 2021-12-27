@@ -47,7 +47,7 @@ hr {
     position: relative;
 }
 
-#card #card-img div  {
+#card #card-img .img2  {
     position: absolute;
     top: 0;
     background-color: hsl(178, 100%, 50%, 60%);
@@ -58,14 +58,14 @@ hr {
     transition: opacity 0.3s ease-in-out;
 }
 
-#card #card-img div img {
+#card #card-img .img2 img {
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
 }
 
-#card #card-img div:hover {
+#card #card-img .img2:hover {
     opacity: 1;
     cursor: pointer;
 }
