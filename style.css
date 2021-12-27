@@ -5,7 +5,7 @@
 
 body{
     font-family: 'Outfit', sans-serif;
-    background: hsl(216, 50%, 16%); 
+    background: hsl(216, 54%, 11%); 
     display: flex;
     flex-direction: column;  
     width: 100vw;
@@ -16,7 +16,7 @@ body{
 
 main {
     color: hsl(0, 0%, 100%); 
-    box-shadow: 0px 0px 18px 18px hsl(216, 54%, 11%);
+    box-shadow: 0px 0px 18px 10px hsl(217, 68%, 7%);
     border-radius: 10px;
 }
 
